@@ -93,4 +93,5 @@ Clasif
 ggplot(data = Clasif,aes(x=Companía, y= num, fill= Critica ))+
   geom_bar(stat = "identity",position = "dodge")
 
-Listo
+Listo 
+Buenas noches
